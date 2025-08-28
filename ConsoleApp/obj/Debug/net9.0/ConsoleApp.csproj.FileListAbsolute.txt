@@ -1,0 +1,15 @@
+C:\Users\HP\Ejpar\ConsoleApp\bin\Debug\net9.0\ConsoleApp.exe
+C:\Users\HP\Ejpar\ConsoleApp\bin\Debug\net9.0\ConsoleApp.deps.json
+C:\Users\HP\Ejpar\ConsoleApp\bin\Debug\net9.0\ConsoleApp.runtimeconfig.json
+C:\Users\HP\Ejpar\ConsoleApp\bin\Debug\net9.0\ConsoleApp.dll
+C:\Users\HP\Ejpar\ConsoleApp\bin\Debug\net9.0\ConsoleApp.pdb
+C:\Users\HP\Ejpar\ConsoleApp\obj\Debug\net9.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Ejpar\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\HP\Ejpar\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\HP\Ejpar\ConsoleApp\obj\Debug\net9.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Ejpar\ConsoleApp\obj\Debug\net9.0\ConsoleApp.sourcelink.json
+C:\Users\HP\Ejpar\ConsoleApp\obj\Debug\net9.0\ConsoleApp.dll
+C:\Users\HP\Ejpar\ConsoleApp\obj\Debug\net9.0\refint\ConsoleApp.dll
+C:\Users\HP\Ejpar\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
+C:\Users\HP\Ejpar\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\HP\Ejpar\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
